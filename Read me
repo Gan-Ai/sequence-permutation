@@ -1,0 +1,5 @@
+Using the simple code, you can conduct sequence permutation easily.
+Firstly, please make sure that python was installed in your computer correctly.
+For sequence permutation, a fasta file contained peptide sequences is needed.
+When using the simple sequence permutation code, just input the following command:
+Python random_seq.py sequences_needed_to_be_permutated.fasta output.fasta
